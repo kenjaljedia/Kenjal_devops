@@ -1,0 +1,6 @@
+environment           = "dev"
+db_instance_class     = "db.t4g.micro"
+allocated_storage     = 20
+multi_az              = false
+backup_retention_days = 0
+skip_final_snapshot   = true

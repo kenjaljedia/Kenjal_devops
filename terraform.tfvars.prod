@@ -1,0 +1,6 @@
+environment           = "prod"
+db_instance_class     = "db.t4g.small"
+allocated_storage     = 50
+multi_az              = true
+backup_retention_days = 7
+skip_final_snapshot   = true
